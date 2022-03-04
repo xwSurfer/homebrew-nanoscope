@@ -15,7 +15,7 @@
 class Nanoscope < Formula
   version "0.2.19"
   desc "Nanoscope"
-  homepage "https://github.com/uber/nanoscope"
+  homepage "https://github.com/xwSurfer/homebrew-nanoscope"
   url "https://github.com/uber/nanoscope/releases/download/0.2.19/nanoscope-0.2.19.zip"
   sha256 "c7e657d014ad62305b38eb65347458ec696a97d771e8cdf0ba6229b5d9b29bee"
 
